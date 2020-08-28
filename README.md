@@ -10,7 +10,7 @@ Profº Kléber Andrade</h2>
         <li>Agner Ribeiro / <a href="#">github</a><br>
  <hr>
 <h1 align="center"> PetCare </h1>
-         <h1 align="center"><img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/><img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/></h1>
+         <h1 align="center"><img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/> | <img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/></h1>
  
  ### Cronograma: 
 |Data|Update|Cersion|
