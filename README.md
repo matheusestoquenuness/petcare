@@ -10,6 +10,7 @@ Profº Kléber Andrade</h2>
         <li>Agner Ribeiro / <a href="#">github</a><br>
  <hr>
  <h3>PETCARE</H3>
+ [![PETCARE Version][npm-image]][npm-url]
  
  
  <strong><p>Início do Projeto - 27/08/2020</p><strong>  
