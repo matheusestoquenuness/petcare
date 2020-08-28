@@ -9,8 +9,7 @@ Profº Kléber Andrade</h2>
         <li>Douglas Ortiz / <a href="http://github.com/DouglasOrtizOliveira">github</a><br>
         <li>Agner Ribeiro / <a href="#">github</a><br>
  <hr>
- <h3>PETCARE</H3>
- [![PETCARE Version][npm-image]][npm-url]
+<h1 align="center"> PetCare </h1>
  
  
  <strong><p>Início do Projeto - 27/08/2020</p><strong>  
