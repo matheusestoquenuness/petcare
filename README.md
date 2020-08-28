@@ -2,12 +2,13 @@
 Laboratório de Engenharia de Software<br>
 Profº Kléber Andrade</h2>
  <h4>
- Alunos:<br>
+ <h3>Alunos:</h3><br> <h4>
         Gustavo Messias<br>
         Flávio Júnior<br>
         Matheus Estoque<br>
         Douglas Ortiz<br>
         Agner Ribeiro<br>
+ </h4>
  
  <h3>PETCARE</H3>
  
