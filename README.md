@@ -14,8 +14,9 @@ Profº Kléber Andrade</h2>
  
  <strong><p>Início do Projeto - 27/08/2020</p><strong>  
 
-Aplicativo para cuidados diários e prolongados de animais domésticos.
+<p align="justify"> Aplicativo para cuidados diários e prolongados de animais domésticos. </p>
 
 
 
-<img align="center" width="250" src="http://gensoft.site/img/fundogit.fw.png">
+
+<img  width="250" src="http://gensoft.site/img/fundogit.fw.png">
