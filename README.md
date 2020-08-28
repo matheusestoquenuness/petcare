@@ -11,6 +11,8 @@ Profº Kléber Andrade</h2>
  <hr>
 <h1 align="center"> PetCare </h1>
   ### Linguagens: 
+  |Linguagens|       
+  | -------- |
   | <img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/> |
   | <img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/> |
  
