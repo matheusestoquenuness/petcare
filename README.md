@@ -1,4 +1,4 @@
-<h2>FATEC - Faculdade de Tecnologia de Americana</h2>
+<title>FATEC - Faculdade de Tecnologia de Americana</title>
 <h2>Laboratório de Engenharia de Software</h2>
 <h2>Profº Kléber Andrade</h2>
  
