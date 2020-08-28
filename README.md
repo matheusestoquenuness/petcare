@@ -10,11 +10,13 @@ Profº Kléber Andrade</h2>
         <li>Agner Ribeiro / <a href="#">github</a><br>
  <hr>
 <h1 align="center"> PetCare </h1>
- <img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/>
- <img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/>
+  ### Linguagens: 
+  | -------- |
+  | <img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/> |
+  | <img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/> |
  
  ### Cronograma: 
-|data|update|version|
+|Data|Update|Cersion|
 | -------- | -------- | -------- |
 | 27/08/2020 | design | <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue&style=for-the-badge&logo=VERSION"/> |
 
