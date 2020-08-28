@@ -15,6 +15,7 @@ Profº Kléber Andrade</h2>
  
  ### Cronograma: 
 |data|update|version|
+| -------- | -------- | -------- |
 | 27/08/2020 | design | <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue&style=for-the-badge&logo=VERSION"/> |
 
 <p align="justify"> Aplicativo para cuidados diários e prolongados de animais domésticos. </p>
