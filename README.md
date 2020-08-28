@@ -10,7 +10,11 @@ Profº Kléber Andrade</h2>
         <li>Agner Ribeiro / <a href="#">github</a><br>
  <hr>
 <h1 align="center"> PetCare </h1>
- <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+ <img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/>
+ <img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/>
+<img src="https://img.shields.io/static/v1?label=c#&message=desktop&color=blue&style=for-the-badge&logo=C#"/>
+
+
  
  <strong><p>Início do Projeto - 27/08/2020</p><strong>  
 
