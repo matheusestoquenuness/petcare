@@ -1,10 +1,10 @@
-<title>FATEC - Faculdade de Tecnologia de Americana</title>
-<h2>Laboratório de Engenharia de Software</h2>
-<h2>Profº Kléber Andrade</h2>
+<h2>FATEC - Faculdade de Tecnologia de Americana<br>
+Laboratório de Engenharia de Software<br>
+Profº Kléber Andrade</h2>
  
  
  <h3>PETCARE</H3>
- <hr>
+ 
  
  <strong><p>Início do Projeto</p><strong>  
 
