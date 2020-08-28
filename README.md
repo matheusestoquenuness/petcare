@@ -3,7 +3,7 @@ Laboratório de Engenharia de Software<br>
 Profº Kléber Andrade</h2>
  <h4>
  Alunos:<br>
-        <li>Gustavo Messias / <a href="github.com/gustavomgs">github</a><br>
+        <li>Gustavo Messias / <a href="http://github.com/gustavomgs">github</a><br>
         <li>Flávio Júnior / <a href="#">github</a><br>
         <li>Matheus Estoque / <a href="github.com/matheusestoque">github</a><br>
         <li>Douglas Ortiz / <a href="github.com/DouglasOrtizOliveira">github</a><br>
