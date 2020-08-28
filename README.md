@@ -5,8 +5,8 @@ Profº Kléber Andrade</h2>
  Alunos:<br>
         <li>Gustavo Messias / <a href="http://github.com/gustavomgs">github</a><br>
         <li>Flávio Júnior / <a href="#">github</a><br>
-        <li>Matheus Estoque / <a href="github.com/matheusestoque">github</a><br>
-        <li>Douglas Ortiz / <a href="github.com/DouglasOrtizOliveira">github</a><br>
+        <li>Matheus Estoque / <a href="http://github.com/matheusestoque">github</a><br>
+        <li>Douglas Ortiz / <a href="http://github.com/DouglasOrtizOliveira">github</a><br>
         <li>Agner Ribeiro / <a href="#">github</a><br>
  <hr>
  <h3>PETCARE</H3>
