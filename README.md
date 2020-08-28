@@ -12,11 +12,10 @@ Profº Kléber Andrade</h2>
 <h1 align="center"> PetCare </h1>
  <img src="https://img.shields.io/static/v1?label=flutter&message=mobile&color=blue&style=for-the-badge&logo=FLUTTER"/>
  <img src="https://img.shields.io/static/v1?label=php&message=web&color=blue&style=for-the-badge&logo=PHP"/>
-<img src="https://img.shields.io/static/v1?label=c#&message=desktop&color=blue&style=for-the-badge&logo=C#"/>
-
-
  
- <strong><p>Início do Projeto - 27/08/2020</p><strong>  
+ ### Cronograma: 
+|data|update|version|
+| 27/08/2020 | design | <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue&style=for-the-badge&logo=VERSION"/> |
 
 <p align="justify"> Aplicativo para cuidados diários e prolongados de animais domésticos. </p>
 
