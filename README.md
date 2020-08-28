@@ -18,4 +18,4 @@ Aplicativo para cuidados diários e prolongados de animais domésticos.
 
 
 
-<img width="250" src="http://gensoft.site/img/fundogit.fw.png">
+<img align="center" width="250" src="http://gensoft.site/img/fundogit.fw.png">
