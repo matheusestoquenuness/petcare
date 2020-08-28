@@ -3,11 +3,11 @@ Laboratório de Engenharia de Software<br>
 Profº Kléber Andrade</h2>
  <h4>
  Alunos:<br>
-        Gustavo Messias<br>
-        Flávio Júnior<br>
-        Matheus Estoque<br>
-        Douglas Ortiz<br>
-        Agner Ribeiro<br>
+        Gustavo Messias / <a href="github.com/gustavomgs">github</a><br>
+        Flávio Júnior / <a href="#">github</a><br>
+        Matheus Estoque / <a href="github.com/matheusestoque">github</a><br>
+        Douglas Ortiz / <a href="#">github</a><br>
+        Agner Ribeiro / <a href="#">github</a><br>
  <hr>
  <h3>PETCARE</H3>
  
