@@ -19,5 +19,6 @@ Profº Kléber Andrade</h2>
 
 
 
-
+<h1 align="center">
 <img  width="250" src="http://gensoft.site/img/fundogit.fw.png">
+</h1>
