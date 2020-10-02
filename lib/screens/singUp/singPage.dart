@@ -101,7 +101,7 @@ class _SingPageState extends State<SingPage> {
                                     backgroundColor: Colors.red,
                                   ));
                                 },
-                                sucesso: () {},
+                                sucesso: () {_pushPage();},
                               );
                         }
                       },
