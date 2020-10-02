@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:mypetcare/helpers/user-man.dart';
 import 'package:mypetcare/screens/home.dart';
 import 'package:mypetcare/screens/login/login_screen.dart';
-import 'package:mypetcare/screens/singPage.dart';
+import 'package:mypetcare/screens/singUp/singPage.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -14,7 +14,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(
-      create: (_) => UserManager(),
+     create: (_) => UserManager(),
+      lazy: false,
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'PetCare',

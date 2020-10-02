@@ -66,15 +66,24 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
                   forgotButton(),
                   raised(
-                      
+                      child: userManager.loading
+                          ? CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor:
+                                  AlwaysStoppedAnimation(Colors.blue[900]),
+                            )
+                          : Text(
+                              'Entrar',
+                              style: TextStyle(color: Colors.white),
+                            ),
                       ontap: userManager.loading
                           ? null
                           : () {
                               if (formkey.currentState.validate()) {
-                                context.read<UserManager>().singIn(
+                                context.read<UserManager>().signIn(
                                     user: User(
                                       email: emailController.text,
-                                      passowrd: passcontroller.text,
+                                      password: passcontroller.text,
                                     ),
                                     onFail: (e) {
                                       scaffoldkey.currentState
@@ -91,31 +100,16 @@ class _LoginScreenState extends State<LoginScreen> {
                   SizedBox(
                     height: 10,
                   ),
-                  FlatButton(
-                      onPressed: () =>
-                          Navigator.of(context).popAndPushNamed('/singpage'),
-                      child: Text(
-                        'Cadastar',
-                        style: TextStyle(
-                          color: Colors.blue[900],
-                        ),
-                      ))
+                  myflat(
+                    title: 'Cadastrar',
+                    ontap: () =>
+                        Navigator.of(context).popAndPushNamed('/singpage'),
+                  ),
                 ],
               );
             },
           ),
         ),
-      ),
-    );
-  }
-
-  Widget forgotButton() {
-    return Align(
-      alignment: Alignment.centerRight,
-      child: FlatButton(
-        padding: EdgeInsets.zero,
-        onPressed: null,
-        child: const Text('Esqueci minha Senha'),
       ),
     );
   }

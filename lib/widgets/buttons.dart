@@ -10,11 +10,33 @@ Widget raised({
     child: RaisedButton(
       disabledColor: Colors.blue.withOpacity(0.5),
       onPressed: ontap,
-      child: Text(
-        'Entrar',
-        style: TextStyle(color: Colors.white),
-      ),
+      child: child,
       color: Colors.blue[900],
+    ),
+  );
+}
+
+Widget myflat({
+  Function ontap,
+  String title,
+}) {
+  return FlatButton(
+      onPressed: ontap,
+      child: Text(
+        title,
+        style: TextStyle(
+          color: Colors.blue[900],
+        ),
+      ));
+}
+
+Widget forgotButton() {
+  return Align(
+    alignment: Alignment.centerRight,
+    child: FlatButton(
+      padding: EdgeInsets.zero,
+      onPressed: null,
+      child: const Text('Esqueci minha Senha'),
     ),
   );
 }
